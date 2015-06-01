@@ -18,7 +18,7 @@ group :test do
   gem 'capybara', require: false
 end
 
-
+gem 'factory_girl_rails'
 gem 'bcrypt'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
